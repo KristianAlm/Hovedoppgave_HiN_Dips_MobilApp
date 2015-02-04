@@ -3,7 +3,7 @@
 	<ContentPage.Content>
 		<StackLayout>
 
-			<Label Text = "Portørappen" FontSize = "40" HorizontalOptions = "CenterAndExpand"></Label>
+			<Label Text = "Portørapppen" FontSize = "40" HorizontalOptions = "CenterAndExpand"></Label>
 
 			<Label Text="Tast inn ønsket brukernavn" HorizontalOptions = "CenterAndExpand"></Label>
 
