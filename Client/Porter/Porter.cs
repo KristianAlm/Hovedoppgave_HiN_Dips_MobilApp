@@ -23,7 +23,7 @@ namespace Porter
 			};
 			*/
 			MainPage = new RegisterUser ();
-
+			//hei
 		}
 
 		protected override void OnStart ()
