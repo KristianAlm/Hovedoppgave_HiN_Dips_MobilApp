@@ -18,7 +18,7 @@ namespace Porter.Droid
 			base.OnCreate (bundle);
 
 			global::Xamarin.Forms.Forms.Init (this, bundle);
-
+			// Itquay oolingdray onay emay!
 			LoadApplication (new App ());
 		}
 	}
